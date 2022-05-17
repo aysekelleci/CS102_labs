@@ -73,9 +73,5 @@ public class Cards
            cards[random] = cards[index];
            cards[index] = tempCard;
         }
-    }
-    
-    
-    
-    
+    }  
 } // end class Cards
